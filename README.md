@@ -5,4 +5,4 @@ Progetto realizzato da : Stellino Marco, Singh Gurghinder, Fogazzi Matteo, Robol
 
 - [Link Notion](https://granite-bergamot-099.notion.site/Prova-Progetto-Informatico-105b2525fc94805dbdd8cb54877fb78f?pvs=4)
 
-- [Link Figma](https://www.figma.com/design/01rWZW7apF2531757UU9oo/progetto-informatico-TIPSIT-wireframe?node-id=0-1&node-type=canvas&t=fq4f69T4b4GWdOBr-0)
+- [Link Figma](https://www.figma.com/design/01rWZW7apF2531757UU9oo/progetto-informatico-TIPSIT-wireframe?node-id=43-77&node-type=canvas&t=zo92YfOWq3h51iO2-0)
